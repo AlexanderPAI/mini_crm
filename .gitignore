@@ -120,7 +120,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+mini_crm/.env
 .venv
 env/
 venv/
